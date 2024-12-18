@@ -1,0 +1,8 @@
+Download JDK: Go to the Oracle Java Downloads page and download the appropriate JDK version for your operating system (Windows, macOS, or Linux).
+Run the Installer: Once downloaded, run the installer. Follow the on-screen instructions to complete the installation2
+Set Up Environment Variables: After installation, you may need to set up environment variables to ensure your system recognizes the JDK.
+On windows: Go to System Properties > Advanced > Environment Variables, and add the JDK path to the Path variable.On macOS/Linux: Edit your .bashrc or .bash_profile file to include the JDK path.
+Installing NetBeans
+Download NetBeans: Visit the Apache NetBeans Downloads page and download the latest version of NetBeans.
+Run the Installer: Open the downloaded installer and follow the prompts to install NetBeans on your system.
+Launch NetBeans: Once installed, you can launch NetBeans from your applications menu or desktop shortcut.
